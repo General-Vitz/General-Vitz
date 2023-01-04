@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @alistair-s99
-- 👀 I’m interested in Data Analystics, Science and creating little tools to help me from day to day
+- 👀 I’m interested in Data Analytics, Data Science and creating little tools to help me from day to day
 - 🌱 I’m currently learning Ruby and Tensorflow
 - 💞️ I’m looking to collaborate on almost anything I can since I am new to open-source projects
 
